@@ -1,0 +1,6 @@
+com\example\agendaadapter\controller\ContactController.class
+com\example\agendaadapter\AgendaAdapterApplication.class
+com\example\agendaadapter\service\ContactService.class
+com\example\agendaadapter\service\ContactServiceImp.class
+com\example\agendaadapter\entity\ContactEntity.class
+com\example\agendaadapter\repository\ContactRepository.class
